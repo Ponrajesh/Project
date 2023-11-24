@@ -432,7 +432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TargetObject: {fileID: 178014396}
-  Length: 0
+  Length: 3
 --- !u!65 &1347080280
 BoxCollider:
   m_ObjectHideFlags: 0
